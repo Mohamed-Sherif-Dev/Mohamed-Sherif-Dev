@@ -99,7 +99,7 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohamed-Sherif-Dev&theme=radical)
 
 
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=USERNAME&theme=github)
+
 ---
 
 ## 🤝 Connect With Me
