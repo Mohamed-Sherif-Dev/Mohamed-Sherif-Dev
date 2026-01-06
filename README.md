@@ -86,13 +86,12 @@
 ---
 
 ## 📊 GitHub Stats
-![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamed-Sherif-Dev&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Sherif-Dev&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=github_dark)
 
 ---
 
 ## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=Mohamed-Sherif-Dev&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=USERNAME&theme=github-dark)
 
 ---
 
