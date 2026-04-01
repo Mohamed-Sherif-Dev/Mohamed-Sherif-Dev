@@ -1,107 +1,88 @@
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Mohamed Sherif</h1>
-<h3 align="center">Full Stack Developer | MERN Stack | Building Real-World Applications</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammed%20Sherif&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20Node.js%20%7C%20NestJS&descAlignY=55&descSize=16" width="100%"/>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="coding gif">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%2F+Next.js+%2F+Node.js+%2F+NestJS;Building+AI-Powered+Web+Apps;Open+to+Work+%F0%9F%91%8B)](https://git.io/typing-svg)
 
----
+<p align="center">
+  <a href="https://linkedin.com/in/mohammed-sherif-a57445363">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Mohamed-Sherif-Dev">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://portfolio-mohammed-nine.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/>
+  </a>
+  <a href="mailto:momh120130@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-## 🚀 About Me
-- 💻 **Full Stack Developer** with strong focus on **MERN Stack**.
-- 🧠 Experienced in building **real-world applications**, not just demos.
-- 🛠 Passionate about **clean code, scalability, and performance**.
-- 🤝 Comfortable working in **team environments** using Git & GitHub.
-- 🎯 Goal: Grow as a software engineer and contribute to impactful products.
-- 📫 Reach me at: **momh120130@gmail.com**
+<img src="https://komarev.com/ghpvc/?username=Mohamed-Sherif-Dev&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 
----
-
-## 🛠 Tech Stack
-
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764abc?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38b2ac?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=api&logoColor=white)
-
-### Database & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-f05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white)
+</div>
 
 ---
 
-## 📌 Featured Projects
+## 👨‍💻 About Me
 
-### 🛒 Blinkit – Full Stack E-commerce Platform
-[🔗 Live Demo](https://blinkit-full-stack.vercel.app) |  
-[📂 Repository](https://github.com/Mohamed-Sherif-Dev/blinkit-full-stack)
+```typescript
+const mohammed = {
+  name: "Mohammed Sherif",
+  role: "Full Stack Developer",
+  location: "Egypt 🇪🇬",
+  experience: "3 years",
+  currentlyBuilding: "AI-Powered Web Applications",
+  lookingFor: "Full Stack / Frontend Role",
+  email: "momh120130@gmail.com",
 
-- Full authentication & authorization  
-- Cart & order management  
-- Clean and responsive UI  
+  skills: {
+    frontend:  ["React", "Next.js 15", "TypeScript", "Tailwind CSS", "Framer Motion"],
+    backend:   ["Node.js", "NestJS", "Express", "REST API", "WebSockets"],
+    database:  ["PostgreSQL", "MongoDB", "Redis", "Prisma", "TypeORM"],
+    devops:    ["Docker", "Vercel", "Git", "GitHub", "CI/CD"],
+    ai:        ["OpenRouter", "LLaMA 3.1", "AI Integration"],
+  },
 
-**Tech:** React, Node.js, Express, MongoDB, Redux Toolkit, Tailwind CSS
-
----
-
-### 🛍 Shopping Express API
-[📂 Repository](https://github.com/Mohamed-Sherif-Dev/shopping-express-api)
-
-- RESTful API for e-commerce systems  
-- JWT authentication  
-- Modular and scalable structure  
-
-**Tech:** Node.js, Express.js, MongoDB, JWT
-
----
-
-### 🌦 Weather App
-[📂 Repository](https://github.com/Mohamed-Sherif-Dev/weather-app)
-
-- Real-time weather data  
-- Clean UI & API integration  
-
-**Tech:** React, Tailwind CSS, OpenWeather API
-
----
-
-### 📋 To-Do App
-[📂 Repository](https://github.com/Mohamed-Sherif-Dev/todo-app)
-
-- CRUD operations  
-- Local storage persistence  
-
-**Tech:** React
-
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=github_dark)
-
----
-
-## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=USERNAME&theme=github-dark)
-
----
-
-## 📈 Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohamed-Sherif-Dev&theme=radical)
+  funFact: "I turn coffee into code ☕ → 💻"
+}
+🛠 Tech Stack
+<div align="center">Frontend
 
 
 
----
 
-## 🤝 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Sherif-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammed-sherif-a57445363)
-[![Email](https://img.shields.io/badge/Email-momh120130%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:momh120130@gmail.com)
+
+Backend
+
+
+
+Database & Cache
+
+
+
+
+DevOps & Tools
+
+
+
+
+</div>
+📊 GitHub Stats
+<div align="center"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mohamed-Sherif-Dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Sherif-Dev&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=FF6B6B" /><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Sherif-Dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&langs_count=8" /></div>
+
+
+💬 Let’s Connect
+<div align="center"><p>I'm actively looking for a <strong>Full Stack / Frontend role</strong></p>
+<p>Available for: <strong>Full-time · Remote · On-site · UAE · Europe · USA</strong></p><a href="mailto:momh120130@gmail.com">
+  <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/mohammed-sherif-a57445363">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://portfolio-mohammed-nine.vercel.app">
+  <img src="https://img.shields.io/badge/View_Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/>
+</a><br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/></div>
