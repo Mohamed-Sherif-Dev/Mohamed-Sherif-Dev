@@ -1,8 +1,9 @@
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mohammed%20Sherif&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20Node.js%20%7C%20NestJS&descAlignY=55&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%2F+Next.js+%2F+Node.js+%2F+NestJS;Building+AI-Powered+Web+Apps+%F0%9F%A4%96;3%2B+Years+of+Experience;Open+to+Work+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+Developer+%F0%9F%9A%80;React+%2F+Next.js+%2F+Node.js+%2F+NestJS;Building+AI-Powered+Web+Apps+%F0%9F%A4%96;2%2B+Years+of+Experience;Open+for+Freelance+Projects+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
@@ -34,12 +35,12 @@ const mohammed = {
   name:     "Mohammed Sherif",
   role:     "Full Stack Developer",
   location: "Egypt 🇪🇬",
-  experience: "3+ years",
+  experience: "2+ years",
   education:  "Faculty of Physical Education — Expected 2027",
 
   currentlyBuilding: "AI-Powered Full Stack Applications",
-  lookingFor:        "Full Stack / Frontend Role",
-  availableFor:      ["Full-time", "Remote", "On-site", "UAE", "Europe", "USA"],
+  lookingFor:        "Freelance Projects & Full Stack Opportunities",
+  availableFor:      ["Freelance", "Remote", "Full-time (Selective)"],
 
   contact: {
     email:    "momh120130@gmail.com",
@@ -434,7 +435,7 @@ Social media backend with queues
 
 <div align="center">
 
-[![Mohammed’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohamed-Sherif-Dev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FF6B6B&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Mohammed's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohamed-Sherif-Dev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FF6B6B&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -443,40 +444,52 @@ Social media backend with queues
 ## 💼 Work Experience
 
 ```
-🏢 Full Stack Developer Intern @ WebMasters — Egypt (2022 – 2023)
-   → Built full-stack features with React + Node.js in Agile teams
-   → Implemented REST APIs, database schemas, reusable components
+🏢 Frontend Developer Intern @ WebMasters — Egypt (Oct 2024 – Jan 2025)
+   → Built UI features with React in an Agile team environment
+   → Delivered reusable components and integrated REST APIs
 
-🏢 Full Stack Developer Intern @ HuMA VOLve — Egypt (2023 – 2024)
+🏢 Full Stack Developer Intern @ HuMA VOLve — Egypt (Jun 2025 – Jul 2025)
    → Developed frontend + backend modules for cross-functional teams
    → Integrated REST APIs, implemented form validation, optimized UI
+
+🏢 Full Stack Developer Intern @ Meta Software — Smart Village, Egypt (Apr 2026 – Jun 2026)
+   → [TODO: أضف هنا 2-3 حاجات فعلية عملتها في الشركة دي]
+   → [TODO: مهم إننا نملأها بحاجات ملموسة قبل ما ننشر البروفايل]
+
+🏢 Full Stack Developer Intern @ CODE ALOHA — India (Jun 2026 – Present)
+   → Contributed to multiple client projects across the full development lifecycle
+   → Delivered 4 selected production-level projects from a larger project pool
+
+🏢 Full Stack Developer Intern @ AUSPIFY — USA (Jun 2026 – Present)
+   → Built a SaaS LMS (Learning Management System) platform as a portfolio project
+   → Implemented working payment gateway integration end-to-end
 ```
 
 -----
 
-## 🎯 What I’m Looking For
+## 🎯 What I'm Looking For
 
 <div align="center">
 
 |               |                                             |
 |---------------|---------------------------------------------|
-|💼 **Role**     |Full Stack Developer / Frontend Developer    |
-|🕐 **Type**     |Full-time                                    |
-|🌍 **Location** |Remote · On-site · Egypt · UAE · Europe · USA|
-|📅 **Available**|Immediately                                  |
-|🗣️ **Languages**|Arabic (Native) · English (Professional)     |
+|💼 **Focus**    |Freelance Full Stack Development              |
+|🎯 **Open to**  |Freelance Projects · Selective Full-time Roles|
+|🌍 **Location** |Remote — Worldwide                            |
+|📅 **Available**|Immediately                                   |
+|🗣️ **Languages**|Arabic (Native) · English (Professional)      |
 
 </div>
 
 -----
 
-## 💬 Let’s Connect
+## 💬 Let's Connect
 
 <div align="center">
 
 <p>
-  <strong>I'm actively looking for a Full Stack / Frontend role.</strong><br/>
-  If you're hiring or know someone who is — let's connect! 🙌
+  <strong>I'm open for freelance projects — and selective full-time opportunities.</strong><br/>
+  Have a project in mind? Let's talk. 🙌
 </p>
 
 <a href="mailto:momh120130@gmail.com">
