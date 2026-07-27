@@ -50,8 +50,8 @@ const mohammed = {
   },
 
   skills: {
-    frontend:  ["React", "Next.js 15", "TypeScript", "Tailwind CSS", "Framer Motion", "Three.js"],
-    backend:   ["Node.js", "NestJS", "Express.js", "REST API", "WebSockets", "Apache Kafka"],
+    frontend:  ["React", "Next.js 15", "TypeScript", "Tailwind CSS", "Framer Motion"],
+    backend:   ["Node.js", "NestJS", "Express.js", "REST API"],
     database:  ["PostgreSQL", "MongoDB", "Redis", "Prisma", "TypeORM", "Mongoose"],
     auth:      ["JWT", "NextAuth.js", "Google OAuth", "Passport.js"],
     devops:    ["Docker", "Docker Compose", "Vercel", "Git", "GitHub", "CI/CD"],
@@ -453,8 +453,7 @@ Social media backend with queues
    → Integrated REST APIs, implemented form validation, optimized UI
 
 🏢 Full Stack Developer Intern @ Meta Software — Smart Village, Egypt (Apr 2026 – Jun 2026)
-   → [TODO: أضف هنا 2-3 حاجات فعلية عملتها في الشركة دي]
-   → [TODO: مهم إننا نملأها بحاجات ملموسة قبل ما ننشر البروفايل]
+
 
 🏢 Full Stack Developer Intern @ CODE ALOHA — India (Jun 2026 – Present)
    → Contributed to multiple client projects across the full development lifecycle
